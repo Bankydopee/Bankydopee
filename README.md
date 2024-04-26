@@ -3,7 +3,7 @@
 <img align='right' width='400' src='https://miro.medium.com/v2/resize:fit:720/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 - 🔭 I’m currently working on  [Countdown](https://github.com/Bankydopee/Countdown)
-- 🌱 I’m currently learning Fastapi and Flutter
+- 🌱 I’m currently learning Fastapi and Fla
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: **<adebanks908@gmail.com>**
 - 👨‍💻 All of my projects are available at [https://github.com/Bankydopee/](https://github.com/Bankydopee/)
